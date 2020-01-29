@@ -107,6 +107,14 @@ body {
   font-size: 1.25em;
   height: 100%;
 }
+.welcome, .subtext {
+  display: flex;
+  align-items: center;
+  color: #ffffff;
+  border: 2px solid #ffffff;
+  padding: 20px;
+  margin: 10px;
+}
 
 .wrapper {
   /*add display:flex and set justify-content to space-between*/
